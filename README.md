@@ -8,7 +8,7 @@
   {% endfor %}
 </ul>
 
-<hr>
+<hr style="width: 65%;">
 
 ## About
 
