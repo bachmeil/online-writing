@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Experimenting with Github Pages"
+updated: 2021-09-16
 ---
 
 I'm experimenting with customizing a blog on Github Pages, done entirely online, using nothing but the browser version of VS Code.
