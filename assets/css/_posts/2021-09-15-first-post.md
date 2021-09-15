@@ -16,4 +16,6 @@ Okay, so math works just fine. How about code blocks?
 print("this is a code block in lowercase");
 ```
 
-Now I need better fonts.
+Now I need better fonts. I sort of have better fonts now. Roboto will work on Linux, but it's often not installed. I added Ubuntu too. That should take care of most Linux users.
+
+Now all I need is something worth writing about.
