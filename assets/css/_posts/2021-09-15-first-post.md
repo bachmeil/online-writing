@@ -9,3 +9,9 @@ I'm experimenting with customizing a blog on Github Pages, done entirely online,
 I want this math to display properly: $y_{t}$ and this too
 
 $$y_{t}$$
+
+Okay, so math works just fine. How about code blocks?
+
+```
+print("this is a code block in lowercase");
+```
