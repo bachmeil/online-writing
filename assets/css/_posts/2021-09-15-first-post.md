@@ -19,3 +19,5 @@ print("this is a code block in lowercase");
 Now I need better fonts. I sort of have better fonts now. Roboto will work on Linux, but it's often not installed. I added Ubuntu too. That should take care of most Linux users.
 
 Now all I need is something worth writing about.
+
+The Github repo for this theme [can be found here](https://github.com/pages-themes/minimal). The documentation for Jekyll [can be found here](https://jekyllrb.com/docs/).
