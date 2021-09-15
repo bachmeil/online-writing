@@ -1,3 +1,13 @@
+## Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bachmeil/online-writing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
