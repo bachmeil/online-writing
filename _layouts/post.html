@@ -7,9 +7,9 @@ layout: default
 {% if page.tags %}
   tags: <em>{{ page.tags | join: "</em> - <em>" }}</em>
 {% endif %}
-
+<br>
 {{content}}
 
-
+<br>
 <i>{{ page.date | date: "%-d %B %Y" }}</i>
-<p class="view">written by {{ page.author | default: site.author }}</p>
+<p class="view">Post written by {{ page.author | default: site.author }}</p>
