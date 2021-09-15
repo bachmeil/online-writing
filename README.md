@@ -8,6 +8,8 @@
   {% endfor %}
 </ul>
 
+<hr>
+
 ## About
 
 You can find out more about me [on my website](https://lancebachmeier.com/).
