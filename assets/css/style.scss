@@ -7,9 +7,11 @@ body {
 }
 
 .wrapper {
+    width: unset;
     max-width: 1300px;
 }
 
 section {
+    width: unset;
     max-width: 65%;
 }
