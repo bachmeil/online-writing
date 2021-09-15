@@ -8,8 +8,6 @@
   {% endfor %}
 </ul>
 
-<hr style="width: 65%;">
-
 ## About
 
 You can find out more about me [on my website](https://lancebachmeier.com/).
