@@ -13,6 +13,6 @@ layout: default
 <br>
 <i>{{ page.date | date: "%-d %B %Y" }}</i>
 {% if page.updated %}
-  <i>Updated: {{ page.updated }}</i>
+  <br><i>Updated: {{ page.updated }}</i>
 {% endif %}
 <p class="view">Post written by {{ page.author | default: site.author }}</p>
