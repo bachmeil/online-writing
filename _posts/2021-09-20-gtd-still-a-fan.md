@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GTD: I'm still a fan"
+tags: gtd
 ---
 
 I've been applying the GTD methodology with various degrees of success for more than a decade. The main reason I've stuck with it is because it's the only thing I've found that works. All the alternatives have failed me. A secondary reason is because it reduces my workload when I use GTD. Sometimes when my workload is manageable I fall off the wagon, but when things get really busy, I go back to GTD so I have enough time in my schedule to get my work done.
