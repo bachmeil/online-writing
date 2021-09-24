@@ -13,7 +13,7 @@ I could probably let that all slide, since no course is comprehensive. A lot of 
 - Practical Dynamic Programming
 - Linear Quadratic Dynamic Programming
 
-How are those macro-specific? These methods are used widely in industrial organization, labor, public, and most any field of economics with dynamics. There's nothing macro-specific about dynamic programming. Is [John Rust](https://editorialexpress.com/jrust/research/papers/dp.pdf) [a macroeconomist](https://editorialexpress.com/jrust/sdp/ndp.pdf)? How about [these two](http://athena.sas.upenn.edu/petra/bergen/toddwolpinannrevpaper.pdf)? How about [Jim Heckman](https://heckmanequation.org/assets/2017/01/NBER20study20May202013.pdf)?
+How are those macro-specific? These methods are used widely in industrial organization, labor, public, and most any field of economics with dynamics. There's nothing macro-specific about dynamic programming. Is [John Rust](https://editorialexpress.com/jrust/research/papers/dp.pdf) a [macroeconomist](https://editorialexpress.com/jrust/sdp/ndp.pdf)? How about [these two](http://athena.sas.upenn.edu/petra/bergen/toddwolpinannrevpaper.pdf)? How about [Jim Heckman](https://heckmanequation.org/assets/2017/01/NBER20study20May202013.pdf)?
 
 They move on to some applications:
 
