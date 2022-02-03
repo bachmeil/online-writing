@@ -1,4 +1,7 @@
-# Interesting Paper, Feb 2 Edition
+---
+layout: post
+title: Interesting Paper, Feb 2 Edition
+---
 
 Today's paper: [In Harm’s Way? Infrastructure Investments and the Persistence of Coastal Cities](https://economics.mit.edu/files/22033) by Clare Balboni. This is not at all my research area, but I found the idea really interesting.
 
